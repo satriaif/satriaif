@@ -7,7 +7,9 @@ Fresh graduate in Information Systems with hands-on experience building full-sta
 ---
 
 
+> [!NOTE]
 > 💭 *"Thoughts become things. If you see it in your mind, you will hold it in your hand."*
+
 
 ---
 
