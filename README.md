@@ -43,7 +43,7 @@ Fresh graduate in Information Systems with hands-on experience building full-sta
 
 ## 🚀 Projects
 
-### [Marketplace UMKM](https://github.com/satriaif/marketplace-umkm)
+### [Marketplace UMKM](https://github.com/satriaif/marketplace-umkm-laravel)
 > Full-stack e-commerce platform for local UMKM products with a personalized recommendation system
 
 - Built with **Laravel**, **Tailwind CSS**, **Alpine.js**, and **MySQL**
